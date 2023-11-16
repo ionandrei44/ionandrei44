@@ -48,6 +48,10 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ionandrei44&show_icons=true&theme=radical" alt="streak stats"/>
 </div>
+<br>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionandrei44&hide=HTML&langs_count=8&layout=compact&theme=radical" alt="top langs" />
+</div>
 
 <br/><br/>
 <hr/>
