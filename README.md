@@ -44,6 +44,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ionandrei44&theme=radical" alt="GitHub Streak" />
 </div>
+<div align="center">
+  ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionandrei44&show_icons=true)
+</div>
 
 <br/><br/>
 <hr/>
