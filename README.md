@@ -16,7 +16,7 @@
 
  💬 Ask me about **React, JavaScript, TypeScript... or something else [here](https://github.com/ionandrei44/ionandrei44/issues)**
 
- ⚡ Other Hobbies **Gym & Crypto**
+ ⚡ Other Hobbies: **Gym & Crypto**
  
  </div>
  
