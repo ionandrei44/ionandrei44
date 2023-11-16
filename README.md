@@ -53,7 +53,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionandrei44&hide=HTML&langs_count=8&layout=compact&theme=radical" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
