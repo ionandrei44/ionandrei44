@@ -10,17 +10,18 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a social media app & my portfolio website**
+ 🔭 I’m currently working on **a cryptocurrency app & my portfolio website**
  
- 🌱 I’m currently learning **Next.js, Node.js & DevOps**
-
- 💬 Ask me about **React, JavaScript, TypeScript... or something else [here](https://github.com/ionandrei44/ionandrei44/issues)**
+ 🌱 I’m currently learning **Next.js, Node.js & Python**
 
  ⚡ Other Hobbies: **Gym & Crypto**
  
  </div>
  
-<div align="center"> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ionandreigabriel/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>  
   <a href="mailto:ionandrei.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
